@@ -1,0 +1,9 @@
+D:\Git\SpaceRemover\SpaceRemover\bin\Debug\SpaceRemover.exe.config
+D:\Git\SpaceRemover\SpaceRemover\bin\Debug\SpaceRemover.exe
+D:\Git\SpaceRemover\SpaceRemover\bin\Debug\SpaceRemover.pdb
+D:\Git\SpaceRemover\SpaceRemover\obj\Debug\SpaceRemover.csprojResolveAssemblyReference.cache
+D:\Git\SpaceRemover\SpaceRemover\obj\Debug\phoneRadomize.Form1.resources
+D:\Git\SpaceRemover\SpaceRemover\obj\Debug\SpaceRemover.Properties.Resources.resources
+D:\Git\SpaceRemover\SpaceRemover\obj\Debug\SpaceRemover.csproj.GenerateResource.Cache
+D:\Git\SpaceRemover\SpaceRemover\obj\Debug\SpaceRemover.exe
+D:\Git\SpaceRemover\SpaceRemover\obj\Debug\SpaceRemover.pdb
